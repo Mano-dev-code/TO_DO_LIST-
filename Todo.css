@@ -1,0 +1,38 @@
+ul {
+    list-style: none;
+}
+#add-btn {
+    height: 50px;
+    width: 10%;
+}
+li {
+    margin: auto;
+    margin-top: 1%;
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    width: 70%;
+    min-height: 60px;
+    border: 2px solid rgb(136, 136, 139);
+    border-radius: 15px;
+    justify-content: space-around;
+    align-items: center;
+}
+li button {
+    width: 100%;
+}
+input::placeholder {
+    margin-left: 10px;
+}
+#text {
+    width: 80%;
+    padding: 10px;
+    font-size: large;
+    font-family: monospace;
+}
+#task-input {
+    min-height: 50px;
+    border-radius: 8px;
+    outline: none;
+    border: 1px solid rgba(26, 26, 26, 0.772);
+}
