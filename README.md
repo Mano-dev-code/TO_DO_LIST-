@@ -1,4 +1,4 @@
-# 📝 To-Do List Web App https://mano-dev-code.github.io/TO_DO_LIST-/
+# 📝 To-Do List Web App 
 
 A simple and responsive To-Do List application built using **HTML, CSS, and JavaScript**, with support for **local storage** to persist tasks even after refreshing the browser.
 
